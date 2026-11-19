@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "name": "DuongPho",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "ten_duong": "Phố Phố Huế"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.8482,
+            21.011
+          ],
+          [
+            105.8482,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "ten_duong": "Phố Hàng Bài"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.852,
+            21.011
+          ],
+          [
+            105.852,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "ten_duong": "Phố Ngô Quyền"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.856,
+            21.011
+          ],
+          [
+            105.856,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "ten_duong": "Phố Phan Chu Trinh"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.86,
+            21.011
+          ],
+          [
+            105.86,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "ten_duong": "Phố Lò Đúc"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.864,
+            21.011
+          ],
+          [
+            105.864,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "ten_duong": "Phố Lê Thánh Tông"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.8678,
+            21.011
+          ],
+          [
+            105.8678,
+            21.031
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "ten_duong": "Phố Trần Nhân Tông"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.0112
+          ],
+          [
+            105.868,
+            21.0112
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "ten_duong": "Phố Nguyễn Du"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.015
+          ],
+          [
+            105.868,
+            21.015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "ten_duong": "Phố Trần Hưng Đạo"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.019
+          ],
+          [
+            105.868,
+            21.019
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "ten_duong": "Phố Lý Thường Kiệt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.023
+          ],
+          [
+            105.868,
+            21.023
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "ten_duong": "Phố Hai Bà Trưng"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.027
+          ],
+          [
+            105.868,
+            21.027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "ten_duong": "Phố Tràng Tiền"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.848,
+            21.0308
+          ],
+          [
+            105.868,
+            21.0308
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2388 @@
+{
+  "type": "FeatureCollection",
+  "name": "CotDien",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "ma_cot": "CD-001",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "ma_cot": "CD-002",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "ma_cot": "CD-003",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "ma_cot": "CD-004",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "ma_cot": "CD-005",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "ma_cot": "CD-006",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "ma_cot": "CD-007",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "ma_cot": "CD-008",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "ma_cot": "CD-009",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "ma_cot": "CD-010",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "ma_cot": "CD-011",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Trần Nhân Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.01132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "ma_cot": "CD-012",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "ma_cot": "CD-013",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "ma_cot": "CD-014",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "ma_cot": "CD-015",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "ma_cot": "CD-016",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "ma_cot": "CD-017",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "ma_cot": "CD-018",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "ma_cot": "CD-019",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "ma_cot": "CD-020",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "ma_cot": "CD-021",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "ma_cot": "CD-022",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Nguyễn Du",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.01512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "ma_cot": "CD-023",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "ma_cot": "CD-024",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "ma_cot": "CD-025",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "ma_cot": "CD-026",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "ma_cot": "CD-027",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "ma_cot": "CD-028",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "ma_cot": "CD-029",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "ma_cot": "CD-030",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "ma_cot": "CD-031",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "ma_cot": "CD-032",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "ma_cot": "CD-033",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Trần Hưng Đạo",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.01912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "ma_cot": "CD-034",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "ma_cot": "CD-035",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "ma_cot": "CD-036",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "ma_cot": "CD-037",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "ma_cot": "CD-038",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "ma_cot": "CD-039",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "ma_cot": "CD-040",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "ma_cot": "CD-041",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "ma_cot": "CD-042",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "ma_cot": "CD-043",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "ma_cot": "CD-044",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lý Thường Kiệt",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.02312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "ma_cot": "CD-045",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "ma_cot": "CD-046",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "ma_cot": "CD-047",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "ma_cot": "CD-048",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "ma_cot": "CD-049",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "ma_cot": "CD-050",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "ma_cot": "CD-051",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "ma_cot": "CD-052",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "ma_cot": "CD-053",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "ma_cot": "CD-054",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "ma_cot": "CD-055",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hai Bà Trưng",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.02712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "ma_cot": "CD-056",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8485,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "ma_cot": "CD-057",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8504,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "ma_cot": "CD-058",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8523,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "ma_cot": "CD-059",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8542,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "ma_cot": "CD-060",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "ma_cot": "CD-061",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.858,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "ma_cot": "CD-062",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8599,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "ma_cot": "CD-063",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8618,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "ma_cot": "CD-064",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8637,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "ma_cot": "CD-065",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8656,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "ma_cot": "CD-066",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Tràng Tiền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8675,
+          21.03092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "ma_cot": "CD-067",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "ma_cot": "CD-068",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "ma_cot": "CD-069",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "ma_cot": "CD-070",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "ma_cot": "CD-071",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "ma_cot": "CD-072",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "ma_cot": "CD-073",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "ma_cot": "CD-074",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "ma_cot": "CD-075",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "ma_cot": "CD-076",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "ma_cot": "CD-077",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phố Huế",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84832,
+          21.0305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "ma_cot": "CD-078",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "ma_cot": "CD-079",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "ma_cot": "CD-080",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "ma_cot": "CD-081",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "ma_cot": "CD-082",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "ma_cot": "CD-083",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "ma_cot": "CD-084",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "ma_cot": "CD-085",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "ma_cot": "CD-086",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "ma_cot": "CD-087",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "ma_cot": "CD-088",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Hàng Bài",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85212,
+          21.0305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "ma_cot": "CD-089",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "ma_cot": "CD-090",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "ma_cot": "CD-091",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "ma_cot": "CD-092",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "ma_cot": "CD-093",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "ma_cot": "CD-094",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "ma_cot": "CD-095",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "ma_cot": "CD-096",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "ma_cot": "CD-097",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "ma_cot": "CD-098",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "ma_cot": "CD-099",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Ngô Quyền",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85612,
+          21.0305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "ma_cot": "CD-100",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "ma_cot": "CD-101",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "ma_cot": "CD-102",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "ma_cot": "CD-103",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "ma_cot": "CD-104",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "ma_cot": "CD-105",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "ma_cot": "CD-106",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "ma_cot": "CD-107",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "ma_cot": "CD-108",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "ma_cot": "CD-109",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "ma_cot": "CD-110",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Phan Chu Trinh",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86012,
+          21.0305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "ma_cot": "CD-111",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "ma_cot": "CD-112",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "ma_cot": "CD-113",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "ma_cot": "CD-114",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "ma_cot": "CD-115",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 116,
+        "ma_cot": "CD-116",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 117,
+        "ma_cot": "CD-117",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 118,
+        "ma_cot": "CD-118",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "ma_cot": "CD-119",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 120,
+        "ma_cot": "CD-120",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "ma_cot": "CD-121",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lò Đúc",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86412,
+          21.0305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "ma_cot": "CD-122",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "ma_cot": "CD-123",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 124,
+        "ma_cot": "CD-124",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 125,
+        "ma_cot": "CD-125",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 126,
+        "ma_cot": "CD-126",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Cần bảo trì"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 127,
+        "ma_cot": "CD-127",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 128,
+        "ma_cot": "CD-128",
+        "loai_cot": "H Structure",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 129,
+        "ma_cot": "CD-129",
+        "loai_cot": "Guy Stub",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 130,
+        "ma_cot": "CD-130",
+        "loai_cot": "Wood Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 131,
+        "ma_cot": "CD-131",
+        "loai_cot": "Light Pole",
+        "dien_ap": "0.4kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 132,
+        "ma_cot": "CD-132",
+        "loai_cot": "Riser Pole",
+        "dien_ap": "22kV",
+        "tuyen_pho": "Phố Lê Thánh Tông",
+        "tinh_trang": "Tốt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86792,
+          21.0305
+        ]
+      }
+    }
+  ]
+}

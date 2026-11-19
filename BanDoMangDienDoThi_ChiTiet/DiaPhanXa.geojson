@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "name": "DiaPhanXa",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "ma_xa": "PX01",
+        "ten_xa": "Phường Tràng Tiền",
+        "dien_tich_ha": 58.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.848,
+              21.021
+            ],
+            [
+              105.858,
+              21.021
+            ],
+            [
+              105.858,
+              21.031
+            ],
+            [
+              105.848,
+              21.031
+            ],
+            [
+              105.848,
+              21.021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "ma_xa": "PX02",
+        "ten_xa": "Phường Phan Chu Trinh",
+        "dien_tich_ha": 49.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858,
+              21.021
+            ],
+            [
+              105.868,
+              21.021
+            ],
+            [
+              105.868,
+              21.031
+            ],
+            [
+              105.858,
+              21.031
+            ],
+            [
+              105.858,
+              21.021
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "ma_xa": "PX03",
+        "ten_xa": "Phường Ngô Thì Nhậm",
+        "dien_tich_ha": 64.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.848,
+              21.011
+            ],
+            [
+              105.868,
+              21.011
+            ],
+            [
+              105.868,
+              21.021
+            ],
+            [
+              105.848,
+              21.021
+            ],
+            [
+              105.848,
+              21.011
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

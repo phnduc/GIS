@@ -1,0 +1,64 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="BanDoMangDienDoThi" version="3.34.0-Prizren">
+  <title>Bản đồ mạng lưới điện đô thị</title>
+  <projectCrs>
+    <spatialrefsys nativeFormat="Wkt">
+      <authid>EPSG:4326</authid>
+    </spatialrefsys>
+  </projectCrs>
+  <mapcanvas name="theMapCanvas" annotationsVisible="1">
+    <units>degrees</units>
+    <extent>
+      <xmin>105.8475</xmin>
+      <ymin>21.0105</ymin>
+      <xmax>105.8685</xmax>
+      <ymax>21.0315</ymax>
+    </extent>
+  </mapcanvas>
+  <projectlayers>
+    <maplayer type="vector" geometry="Point">
+      <id>CotDien_id</id>
+      <datasource>./CotDien.geojson</datasource>
+      <layername>CotDien</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+    <maplayer type="vector" geometry="Line">
+      <id>DuongDay_id</id>
+      <datasource>./DuongDay.geojson</datasource>
+      <layername>DuongDay</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+    <maplayer type="vector" geometry="Line">
+      <id>DuongPho_id</id>
+      <datasource>./DuongPho.geojson</datasource>
+      <layername>DuongPho</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+    <maplayer type="vector" geometry="Polygon">
+      <id>CongTrinh_id</id>
+      <datasource>./CongTrinh.geojson</datasource>
+      <layername>CongTrinh</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+    <maplayer type="vector" geometry="Polygon">
+      <id>LoDat_id</id>
+      <datasource>./LoDat.geojson</datasource>
+      <layername>LoDat</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+    <maplayer type="vector" geometry="Polygon">
+      <id>DiaPhanXa_id</id>
+      <datasource>./DiaPhanXa.geojson</datasource>
+      <layername>DiaPhanXa</layername>
+      <provider encoding="UTF-8">ogr</provider>
+    </maplayer>
+  </projectlayers>
+  <layer-tree-group>
+    <layer-tree-layer id="CotDien_id" name="CotDien" checked="Qt::Checked" expanded="1" source="./CotDien.geojson" providerKey="ogr"/>
+    <layer-tree-layer id="DuongDay_id" name="DuongDay" checked="Qt::Checked" expanded="1" source="./DuongDay.geojson" providerKey="ogr"/>
+    <layer-tree-layer id="DuongPho_id" name="DuongPho" checked="Qt::Checked" expanded="1" source="./DuongPho.geojson" providerKey="ogr"/>
+    <layer-tree-layer id="CongTrinh_id" name="CongTrinh" checked="Qt::Checked" expanded="1" source="./CongTrinh.geojson" providerKey="ogr"/>
+    <layer-tree-layer id="LoDat_id" name="LoDat" checked="Qt::Checked" expanded="1" source="./LoDat.geojson" providerKey="ogr"/>
+    <layer-tree-layer id="DiaPhanXa_id" name="DiaPhanXa" checked="Qt::Checked" expanded="1" source="./DiaPhanXa.geojson" providerKey="ogr"/>
+  </layer-tree-group>
+</qgis>

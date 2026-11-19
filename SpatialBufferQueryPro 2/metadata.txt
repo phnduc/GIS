@@ -1,0 +1,11 @@
+[general]
+name=Spatial Buffer Query Pro
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+description=Selects vector features within a radius from a point, displays the buffer, and exports results.
+version=1.0.1
+author=OpenAI
+email=
+about=Spatial buffer query plugin with metric buffering and GeoJSON/Shapefile export.
+category=Vector
+icon=icon.png

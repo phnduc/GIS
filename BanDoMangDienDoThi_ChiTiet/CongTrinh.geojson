@@ -1,0 +1,2558 @@
+{
+  "type": "FeatureCollection",
+  "name": "CongTrinh",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "ten_ct": "Nhà xe thông minh Tầng 1",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 4,
+        "ma_lo": "LD-01",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850205,
+              21.012295
+            ],
+            [
+              105.850975,
+              21.012295
+            ],
+            [
+              105.850975,
+              21.012995
+            ],
+            [
+              105.850205,
+              21.012995
+            ],
+            [
+              105.850205,
+              21.012295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "ten_ct": "Trạm sạc nhanh xe điện EV 01",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 2,
+        "ma_lo": "LD-01",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849295,
+              21.013205
+            ],
+            [
+              105.850135,
+              21.013205
+            ],
+            [
+              105.850135,
+              21.013975
+            ],
+            [
+              105.849295,
+              21.013975
+            ],
+            [
+              105.849295,
+              21.013205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "ten_ct": "Chung cư Nguyễn Du Tower A",
+        "loai": "Chung cư",
+        "so_tang": 18,
+        "ma_lo": "LD-02",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849225,
+              21.016125
+            ],
+            [
+              105.849925,
+              21.016125
+            ],
+            [
+              105.849925,
+              21.016755
+            ],
+            [
+              105.849225,
+              21.016755
+            ],
+            [
+              105.849225,
+              21.016125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "ten_ct": "Chung cư Nguyễn Du Tower B",
+        "loai": "Chung cư",
+        "so_tang": 18,
+        "ma_lo": "LD-02",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850205,
+              21.016195
+            ],
+            [
+              105.850975,
+              21.016195
+            ],
+            [
+              105.850975,
+              21.016895
+            ],
+            [
+              105.850205,
+              21.016895
+            ],
+            [
+              105.850205,
+              21.016195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "ten_ct": "Nhà sinh hoạt cộng đồng & Dịch vụ",
+        "loai": "Chung cư",
+        "so_tang": 3,
+        "ma_lo": "LD-02",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850345,
+              21.017175
+            ],
+            [
+              105.850975,
+              21.017175
+            ],
+            [
+              105.850975,
+              21.017875
+            ],
+            [
+              105.850345,
+              21.017875
+            ],
+            [
+              105.850345,
+              21.017175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "ten_ct": "Tháp Tài chính Quốc tế",
+        "loai": "Thương mại",
+        "so_tang": 25,
+        "ma_lo": "LD-03",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849225,
+              21.020125
+            ],
+            [
+              105.849925,
+              21.020125
+            ],
+            [
+              105.849925,
+              21.020755
+            ],
+            [
+              105.849225,
+              21.020755
+            ],
+            [
+              105.849225,
+              21.020125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "ten_ct": "Khách sạn 5 sao Hoàn Kiếm",
+        "loai": "Thương mại",
+        "so_tang": 20,
+        "ma_lo": "LD-03",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849295,
+              21.021105
+            ],
+            [
+              105.850135,
+              21.021105
+            ],
+            [
+              105.850135,
+              21.021875
+            ],
+            [
+              105.849295,
+              21.021875
+            ],
+            [
+              105.849295,
+              21.021105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "ten_ct": "Trung tâm Hội nghị Tài chính",
+        "loai": "Thương mại",
+        "so_tang": 5,
+        "ma_lo": "LD-03",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850345,
+              21.021175
+            ],
+            [
+              105.850975,
+              21.021175
+            ],
+            [
+              105.850975,
+              21.021875
+            ],
+            [
+              105.850345,
+              21.021875
+            ],
+            [
+              105.850345,
+              21.021175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "ten_ct": "Trụ sở Tiếp nhận Dịch vụ Công",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 7,
+        "ma_lo": "LD-04",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850205,
+              21.024195
+            ],
+            [
+              105.850975,
+              21.024195
+            ],
+            [
+              105.850975,
+              21.024895
+            ],
+            [
+              105.850205,
+              21.024895
+            ],
+            [
+              105.850205,
+              21.024195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "ten_ct": "Tòa nhà Hành chính Một cửa",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 9,
+        "ma_lo": "LD-04",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849295,
+              21.025105
+            ],
+            [
+              105.850135,
+              21.025105
+            ],
+            [
+              105.850135,
+              21.025875
+            ],
+            [
+              105.849295,
+              21.025875
+            ],
+            [
+              105.849295,
+              21.025105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "ten_ct": "Bãi đỗ xe ngầm Tràng Tiền Block 1",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 3,
+        "ma_lo": "LD-05",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.849225,
+              21.028025
+            ],
+            [
+              105.849925,
+              21.028025
+            ],
+            [
+              105.849925,
+              21.028655
+            ],
+            [
+              105.849225,
+              21.028655
+            ],
+            [
+              105.849225,
+              21.028025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "ten_ct": "Bãi đỗ xe ngầm Tràng Tiền Block 2",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 3,
+        "ma_lo": "LD-05",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850205,
+              21.028095
+            ],
+            [
+              105.850975,
+              21.028095
+            ],
+            [
+              105.850975,
+              21.028795
+            ],
+            [
+              105.850205,
+              21.028795
+            ],
+            [
+              105.850205,
+              21.028095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "ten_ct": "Trạm quản lý điều hành bãi đỗ",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 2,
+        "ma_lo": "LD-05",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.850345,
+              21.029075
+            ],
+            [
+              105.850975,
+              21.029075
+            ],
+            [
+              105.850975,
+              21.029775
+            ],
+            [
+              105.850345,
+              21.029775
+            ],
+            [
+              105.850345,
+              21.029075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "ten_ct": "Chung cư Hàng Bài Eco Block A",
+        "loai": "Chung cư",
+        "so_tang": 15,
+        "ma_lo": "LD-06",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853125,
+              21.012225
+            ],
+            [
+              105.853825,
+              21.012225
+            ],
+            [
+              105.853825,
+              21.012855
+            ],
+            [
+              105.853125,
+              21.012855
+            ],
+            [
+              105.853125,
+              21.012225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "ten_ct": "Chung cư Hàng Bài Eco Block B",
+        "loai": "Chung cư",
+        "so_tang": 15,
+        "ma_lo": "LD-06",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854105,
+              21.012295
+            ],
+            [
+              105.854875,
+              21.012295
+            ],
+            [
+              105.854875,
+              21.012995
+            ],
+            [
+              105.854105,
+              21.012995
+            ],
+            [
+              105.854105,
+              21.012295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "ten_ct": "Khu nhà trẻ & Thể thao nội khu",
+        "loai": "Chung cư",
+        "so_tang": 3,
+        "ma_lo": "LD-06",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854245,
+              21.013275
+            ],
+            [
+              105.854875,
+              21.013275
+            ],
+            [
+              105.854875,
+              21.013975
+            ],
+            [
+              105.854245,
+              21.013975
+            ],
+            [
+              105.854245,
+              21.013275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "ten_ct": "TTTM Grand Plaza Center",
+        "loai": "Thương mại",
+        "so_tang": 8,
+        "ma_lo": "LD-07",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853125,
+              21.016125
+            ],
+            [
+              105.853825,
+              21.016125
+            ],
+            [
+              105.853825,
+              21.016755
+            ],
+            [
+              105.853125,
+              21.016755
+            ],
+            [
+              105.853125,
+              21.016125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "ten_ct": "Khách sạn Boutique Grand Suites",
+        "loai": "Thương mại",
+        "so_tang": 14,
+        "ma_lo": "LD-07",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853195,
+              21.017105
+            ],
+            [
+              105.854035,
+              21.017105
+            ],
+            [
+              105.854035,
+              21.017875
+            ],
+            [
+              105.853195,
+              21.017875
+            ],
+            [
+              105.853195,
+              21.017105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "ten_ct": "Rạp chiếu phim & Giải trí",
+        "loai": "Thương mại",
+        "so_tang": 4,
+        "ma_lo": "LD-07",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854245,
+              21.017175
+            ],
+            [
+              105.854875,
+              21.017175
+            ],
+            [
+              105.854875,
+              21.017875
+            ],
+            [
+              105.854245,
+              21.017875
+            ],
+            [
+              105.854245,
+              21.017175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "ten_ct": "Tháp Văn phòng Vietcombank",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 22,
+        "ma_lo": "LD-08",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854105,
+              21.020195
+            ],
+            [
+              105.854875,
+              21.020195
+            ],
+            [
+              105.854875,
+              21.020895
+            ],
+            [
+              105.854105,
+              21.020895
+            ],
+            [
+              105.854105,
+              21.020195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "ten_ct": "Tòa nhà Ngân hàng Đầu tư BIDV",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 20,
+        "ma_lo": "LD-08",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853195,
+              21.021105
+            ],
+            [
+              105.854035,
+              21.021105
+            ],
+            [
+              105.854035,
+              21.021875
+            ],
+            [
+              105.853195,
+              21.021875
+            ],
+            [
+              105.853195,
+              21.021105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "ten_ct": "Căn hộ cao cấp Hai Bà Trưng A",
+        "loai": "Chung cư",
+        "so_tang": 21,
+        "ma_lo": "LD-09",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853125,
+              21.024125
+            ],
+            [
+              105.853825,
+              21.024125
+            ],
+            [
+              105.853825,
+              21.024755
+            ],
+            [
+              105.853125,
+              21.024755
+            ],
+            [
+              105.853125,
+              21.024125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "ten_ct": "Căn hộ cao cấp Hai Bà Trưng B",
+        "loai": "Chung cư",
+        "so_tang": 21,
+        "ma_lo": "LD-09",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854105,
+              21.024195
+            ],
+            [
+              105.854875,
+              21.024195
+            ],
+            [
+              105.854875,
+              21.024895
+            ],
+            [
+              105.854105,
+              21.024895
+            ],
+            [
+              105.854105,
+              21.024195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "ten_ct": "Khu thương mại dịch vụ chân đế",
+        "loai": "Thương mại",
+        "so_tang": 3,
+        "ma_lo": "LD-09",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854245,
+              21.025175
+            ],
+            [
+              105.854875,
+              21.025175
+            ],
+            [
+              105.854875,
+              21.025875
+            ],
+            [
+              105.854245,
+              21.025875
+            ],
+            [
+              105.854245,
+              21.025175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "ten_ct": "Nhà để xe cao tầng Tràng Tiền A",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 6,
+        "ma_lo": "LD-10",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853125,
+              21.028025
+            ],
+            [
+              105.853825,
+              21.028025
+            ],
+            [
+              105.853825,
+              21.028655
+            ],
+            [
+              105.853125,
+              21.028655
+            ],
+            [
+              105.853125,
+              21.028025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "ten_ct": "Nhà để xe cao tầng Tràng Tiền B",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 6,
+        "ma_lo": "LD-10",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.853195,
+              21.029005
+            ],
+            [
+              105.854035,
+              21.029005
+            ],
+            [
+              105.854035,
+              21.029775
+            ],
+            [
+              105.853195,
+              21.029775
+            ],
+            [
+              105.853195,
+              21.029005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "ten_ct": "Trung tâm bảo dưỡng phương tiện EV",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 2,
+        "ma_lo": "LD-10",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.854245,
+              21.029075
+            ],
+            [
+              105.854875,
+              21.029075
+            ],
+            [
+              105.854875,
+              21.029775
+            ],
+            [
+              105.854245,
+              21.029775
+            ],
+            [
+              105.854245,
+              21.029075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "ten_ct": "Khu dân cư Ngô Quyền Block 1",
+        "loai": "Chung cư",
+        "so_tang": 12,
+        "ma_lo": "LD-11",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857125,
+              21.012225
+            ],
+            [
+              105.857825,
+              21.012225
+            ],
+            [
+              105.857825,
+              21.012855
+            ],
+            [
+              105.857125,
+              21.012855
+            ],
+            [
+              105.857125,
+              21.012225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "ten_ct": "Khu dân cư Ngô Quyền Block 2",
+        "loai": "Chung cư",
+        "so_tang": 12,
+        "ma_lo": "LD-11",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857195,
+              21.013205
+            ],
+            [
+              105.858035,
+              21.013205
+            ],
+            [
+              105.858035,
+              21.013975
+            ],
+            [
+              105.857195,
+              21.013975
+            ],
+            [
+              105.857195,
+              21.013205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "ten_ct": "Nhà cộng đồng & Vườn dạo",
+        "loai": "Chung cư",
+        "so_tang": 2,
+        "ma_lo": "LD-11",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858245,
+              21.013275
+            ],
+            [
+              105.858875,
+              21.013275
+            ],
+            [
+              105.858875,
+              21.013975
+            ],
+            [
+              105.858245,
+              21.013975
+            ],
+            [
+              105.858245,
+              21.013275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "ten_ct": "Khối Giảng đường Phổ thông A",
+        "loai": "Trường học",
+        "so_tang": 5,
+        "ma_lo": "LD-12",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858105,
+              21.016195
+            ],
+            [
+              105.858875,
+              21.016195
+            ],
+            [
+              105.858875,
+              21.016895
+            ],
+            [
+              105.858105,
+              21.016895
+            ],
+            [
+              105.858105,
+              21.016195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "ten_ct": "Khối Giảng đường & Thư viện B",
+        "loai": "Trường học",
+        "so_tang": 5,
+        "ma_lo": "LD-12",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857195,
+              21.017105
+            ],
+            [
+              105.858035,
+              21.017105
+            ],
+            [
+              105.858035,
+              21.017875
+            ],
+            [
+              105.857195,
+              21.017875
+            ],
+            [
+              105.857195,
+              21.017105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "ten_ct": "Nhà biểu diễn Nghệ thuật Ngoài trời",
+        "loai": "Văn hóa - Thể thao",
+        "so_tang": 2,
+        "ma_lo": "LD-13",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857125,
+              21.020125
+            ],
+            [
+              105.857825,
+              21.020125
+            ],
+            [
+              105.857825,
+              21.020755
+            ],
+            [
+              105.857125,
+              21.020755
+            ],
+            [
+              105.857125,
+              21.020125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "ten_ct": "Đài phun nước & Quán trà hoa viên",
+        "loai": "Văn hóa - Thể thao",
+        "so_tang": 1,
+        "ma_lo": "LD-13",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858105,
+              21.020195
+            ],
+            [
+              105.858875,
+              21.020195
+            ],
+            [
+              105.858875,
+              21.020895
+            ],
+            [
+              105.858105,
+              21.020895
+            ],
+            [
+              105.858105,
+              21.020195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "ten_ct": "Khu dịch vụ Sinh thái Công viên",
+        "loai": "Văn hóa - Thể thao",
+        "so_tang": 2,
+        "ma_lo": "LD-13",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858245,
+              21.021175
+            ],
+            [
+              105.858875,
+              21.021175
+            ],
+            [
+              105.858875,
+              21.021875
+            ],
+            [
+              105.858245,
+              21.021875
+            ],
+            [
+              105.858245,
+              21.021175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "ten_ct": "Nhà đỗ xe trung tâm Lý Thường Kiệt",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 5,
+        "ma_lo": "LD-14",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857125,
+              21.024125
+            ],
+            [
+              105.857825,
+              21.024125
+            ],
+            [
+              105.857825,
+              21.024755
+            ],
+            [
+              105.857125,
+              21.024755
+            ],
+            [
+              105.857125,
+              21.024125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "ten_ct": "Trạm sạc pin siêu nhanh 300kW",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 1,
+        "ma_lo": "LD-14",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857195,
+              21.025105
+            ],
+            [
+              105.858035,
+              21.025105
+            ],
+            [
+              105.858035,
+              21.025875
+            ],
+            [
+              105.857195,
+              21.025875
+            ],
+            [
+              105.857195,
+              21.025105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "ten_ct": "Trung tâm điều hành trạm sạc xe",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 3,
+        "ma_lo": "LD-14",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858245,
+              21.025175
+            ],
+            [
+              105.858875,
+              21.025175
+            ],
+            [
+              105.858875,
+              21.025875
+            ],
+            [
+              105.858245,
+              21.025875
+            ],
+            [
+              105.858245,
+              21.025175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "ten_ct": "Khu nhà liên kế Ngô Quyền Dãy A",
+        "loai": "Chung cư",
+        "so_tang": 5,
+        "ma_lo": "LD-15",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.858105,
+              21.028095
+            ],
+            [
+              105.858875,
+              21.028095
+            ],
+            [
+              105.858875,
+              21.028795
+            ],
+            [
+              105.858105,
+              21.028795
+            ],
+            [
+              105.858105,
+              21.028095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "ten_ct": "Khu nhà liên kế Ngô Quyền Dãy B",
+        "loai": "Chung cư",
+        "so_tang": 5,
+        "ma_lo": "LD-15",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.857195,
+              21.029005
+            ],
+            [
+              105.858035,
+              21.029005
+            ],
+            [
+              105.858035,
+              21.029775
+            ],
+            [
+              105.857195,
+              21.029775
+            ],
+            [
+              105.857195,
+              21.029005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "ten_ct": "Cơ quan Quản lý Quy hoạch Đô thị",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 9,
+        "ma_lo": "LD-16",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862105,
+              21.012295
+            ],
+            [
+              105.862875,
+              21.012295
+            ],
+            [
+              105.862875,
+              21.012995
+            ],
+            [
+              105.862105,
+              21.012995
+            ],
+            [
+              105.862105,
+              21.012295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "ten_ct": "Trung tâm Lưu trữ & Dữ liệu GIS",
+        "loai": "Trụ sở văn phòng",
+        "so_tang": 6,
+        "ma_lo": "LD-16",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861195,
+              21.013205
+            ],
+            [
+              105.862035,
+              21.013205
+            ],
+            [
+              105.862035,
+              21.013975
+            ],
+            [
+              105.861195,
+              21.013975
+            ],
+            [
+              105.861195,
+              21.013205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "ten_ct": "Tòa nhà Văn phòng Phan Chu Trinh 1",
+        "loai": "Thương mại",
+        "so_tang": 16,
+        "ma_lo": "LD-17",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861125,
+              21.016125
+            ],
+            [
+              105.861825,
+              21.016125
+            ],
+            [
+              105.861825,
+              21.016755
+            ],
+            [
+              105.861125,
+              21.016755
+            ],
+            [
+              105.861125,
+              21.016125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "ten_ct": "Phố ẩm thực & Mua sắm Fashion Hub",
+        "loai": "Thương mại",
+        "so_tang": 4,
+        "ma_lo": "LD-17",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862105,
+              21.016195
+            ],
+            [
+              105.862875,
+              21.016195
+            ],
+            [
+              105.862875,
+              21.016895
+            ],
+            [
+              105.862105,
+              21.016895
+            ],
+            [
+              105.862105,
+              21.016195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "ten_ct": "Khách sạn Thương mại & Du lịch",
+        "loai": "Thương mại",
+        "so_tang": 12,
+        "ma_lo": "LD-17",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862245,
+              21.017175
+            ],
+            [
+              105.862875,
+              21.017175
+            ],
+            [
+              105.862875,
+              21.017875
+            ],
+            [
+              105.862245,
+              21.017875
+            ],
+            [
+              105.862245,
+              21.017175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "ten_ct": "Landmark Tower 45 Khối Tháp",
+        "loai": "Thương mại",
+        "so_tang": 45,
+        "ma_lo": "LD-18",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861125,
+              21.020125
+            ],
+            [
+              105.861825,
+              21.020125
+            ],
+            [
+              105.861825,
+              21.020755
+            ],
+            [
+              105.861125,
+              21.020755
+            ],
+            [
+              105.861125,
+              21.020125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "ten_ct": "Khối đế Trung tâm Thương mại",
+        "loai": "Thương mại",
+        "so_tang": 6,
+        "ma_lo": "LD-18",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861195,
+              21.021105
+            ],
+            [
+              105.862035,
+              21.021105
+            ],
+            [
+              105.862035,
+              21.021875
+            ],
+            [
+              105.861195,
+              21.021875
+            ],
+            [
+              105.861195,
+              21.021105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "ten_ct": "Trung tâm Hội nghị Quốc tế Landmark",
+        "loai": "Thương mại",
+        "so_tang": 5,
+        "ma_lo": "LD-18",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862245,
+              21.021175
+            ],
+            [
+              105.862875,
+              21.021175
+            ],
+            [
+              105.862875,
+              21.021875
+            ],
+            [
+              105.862245,
+              21.021875
+            ],
+            [
+              105.862245,
+              21.021175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "ten_ct": "Tòa tháp Căn hộ Skyline A",
+        "loai": "Chung cư",
+        "so_tang": 24,
+        "ma_lo": "LD-19",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862105,
+              21.024195
+            ],
+            [
+              105.862875,
+              21.024195
+            ],
+            [
+              105.862875,
+              21.024895
+            ],
+            [
+              105.862105,
+              21.024895
+            ],
+            [
+              105.862105,
+              21.024195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "ten_ct": "Tòa tháp Căn hộ Skyline B",
+        "loai": "Chung cư",
+        "so_tang": 24,
+        "ma_lo": "LD-19",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861195,
+              21.025105
+            ],
+            [
+              105.862035,
+              21.025105
+            ],
+            [
+              105.862035,
+              21.025875
+            ],
+            [
+              105.861195,
+              21.025875
+            ],
+            [
+              105.861195,
+              21.025105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "ten_ct": "Khu nhà ở cao cấp Phan Chu Trinh 1",
+        "loai": "Chung cư",
+        "so_tang": 14,
+        "ma_lo": "LD-20",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.861125,
+              21.028025
+            ],
+            [
+              105.861825,
+              21.028025
+            ],
+            [
+              105.861825,
+              21.028655
+            ],
+            [
+              105.861125,
+              21.028655
+            ],
+            [
+              105.861125,
+              21.028025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "ten_ct": "Khu nhà ở cao cấp Phan Chu Trinh 2",
+        "loai": "Chung cư",
+        "so_tang": 14,
+        "ma_lo": "LD-20",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862105,
+              21.028095
+            ],
+            [
+              105.862875,
+              21.028095
+            ],
+            [
+              105.862875,
+              21.028795
+            ],
+            [
+              105.862105,
+              21.028795
+            ],
+            [
+              105.862105,
+              21.028095
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "ten_ct": "Khu shophouse & Cà phê nội khu",
+        "loai": "Thương mại",
+        "so_tang": 3,
+        "ma_lo": "LD-20",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.862245,
+              21.029075
+            ],
+            [
+              105.862875,
+              21.029075
+            ],
+            [
+              105.862875,
+              21.029775
+            ],
+            [
+              105.862245,
+              21.029775
+            ],
+            [
+              105.862245,
+              21.029075
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "ten_ct": "Biệt thự Lò Đúc Dãy A",
+        "loai": "Chung cư",
+        "so_tang": 4,
+        "ma_lo": "LD-21",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865025,
+              21.012225
+            ],
+            [
+              105.865725,
+              21.012225
+            ],
+            [
+              105.865725,
+              21.012855
+            ],
+            [
+              105.865025,
+              21.012855
+            ],
+            [
+              105.865025,
+              21.012225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "ten_ct": "Biệt thự Lò Đúc Dãy B",
+        "loai": "Chung cư",
+        "so_tang": 4,
+        "ma_lo": "LD-21",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866005,
+              21.012295
+            ],
+            [
+              105.866775,
+              21.012295
+            ],
+            [
+              105.866775,
+              21.012995
+            ],
+            [
+              105.866005,
+              21.012995
+            ],
+            [
+              105.866005,
+              21.012295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "ten_ct": "Câu lạc bộ Thể thao & Bể bơi",
+        "loai": "Văn hóa - Thể thao",
+        "so_tang": 2,
+        "ma_lo": "LD-21",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866145,
+              21.013275
+            ],
+            [
+              105.866775,
+              21.013275
+            ],
+            [
+              105.866775,
+              21.013975
+            ],
+            [
+              105.866145,
+              21.013975
+            ],
+            [
+              105.866145,
+              21.013275
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "ten_ct": "Nhà xe cao tầng Lò Đúc 1",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 6,
+        "ma_lo": "LD-22",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865025,
+              21.016125
+            ],
+            [
+              105.865725,
+              21.016125
+            ],
+            [
+              105.865725,
+              21.016755
+            ],
+            [
+              105.865025,
+              21.016755
+            ],
+            [
+              105.865025,
+              21.016125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "ten_ct": "Nhà xe cao tầng Lò Đúc 2",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 6,
+        "ma_lo": "LD-22",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865095,
+              21.017105
+            ],
+            [
+              105.865935,
+              21.017105
+            ],
+            [
+              105.865935,
+              21.017875
+            ],
+            [
+              105.865095,
+              21.017875
+            ],
+            [
+              105.865095,
+              21.017105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "ten_ct": "Trạm đổi pin xe điện thông minh",
+        "loai": "Bãi đỗ xe",
+        "so_tang": 1,
+        "ma_lo": "LD-22",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866145,
+              21.017175
+            ],
+            [
+              105.866775,
+              21.017175
+            ],
+            [
+              105.866775,
+              21.017875
+            ],
+            [
+              105.866145,
+              21.017875
+            ],
+            [
+              105.866145,
+              21.017175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "ten_ct": "Nhà Triển lãm Thương mại A",
+        "loai": "Thương mại",
+        "so_tang": 3,
+        "ma_lo": "LD-23",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866005,
+              21.020195
+            ],
+            [
+              105.866775,
+              21.020195
+            ],
+            [
+              105.866775,
+              21.020895
+            ],
+            [
+              105.866005,
+              21.020895
+            ],
+            [
+              105.866005,
+              21.020195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "ten_ct": "Nhà Triển lãm Thương mại B",
+        "loai": "Thương mại",
+        "so_tang": 3,
+        "ma_lo": "LD-23",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865095,
+              21.021105
+            ],
+            [
+              105.865935,
+              21.021105
+            ],
+            [
+              105.865935,
+              21.021875
+            ],
+            [
+              105.865095,
+              21.021875
+            ],
+            [
+              105.865095,
+              21.021105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "ten_ct": "Tòa nhà Hiệu bộ & Viện Nghiên cứu",
+        "loai": "Trường học",
+        "so_tang": 9,
+        "ma_lo": "LD-24",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865025,
+              21.024125
+            ],
+            [
+              105.865725,
+              21.024125
+            ],
+            [
+              105.865725,
+              21.024755
+            ],
+            [
+              105.865025,
+              21.024755
+            ],
+            [
+              105.865025,
+              21.024125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "ten_ct": "Trung tâm Thí nghiệm Công nghệ",
+        "loai": "Trường học",
+        "so_tang": 7,
+        "ma_lo": "LD-24",
+        "dien_tich_m2": 6205.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866005,
+              21.024195
+            ],
+            [
+              105.866775,
+              21.024195
+            ],
+            [
+              105.866775,
+              21.024895
+            ],
+            [
+              105.866005,
+              21.024895
+            ],
+            [
+              105.866005,
+              21.024195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "ten_ct": "Ký túc xá & Nhà thi đấu Sinh viên",
+        "loai": "Trường học",
+        "so_tang": 6,
+        "ma_lo": "LD-24",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866145,
+              21.025175
+            ],
+            [
+              105.866775,
+              21.025175
+            ],
+            [
+              105.866775,
+              21.025875
+            ],
+            [
+              105.866145,
+              21.025875
+            ],
+            [
+              105.866145,
+              21.025175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "ten_ct": "Chung cư Hoàng Gia Tower 1",
+        "loai": "Chung cư",
+        "so_tang": 20,
+        "ma_lo": "LD-25",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865025,
+              21.028025
+            ],
+            [
+              105.865725,
+              21.028025
+            ],
+            [
+              105.865725,
+              21.028655
+            ],
+            [
+              105.865025,
+              21.028655
+            ],
+            [
+              105.865025,
+              21.028025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "ten_ct": "Chung cư Hoàng Gia Tower 2",
+        "loai": "Chung cư",
+        "so_tang": 20,
+        "ma_lo": "LD-25",
+        "dien_tich_m2": 7446.3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.865095,
+              21.029005
+            ],
+            [
+              105.865935,
+              21.029005
+            ],
+            [
+              105.865935,
+              21.029775
+            ],
+            [
+              105.865095,
+              21.029775
+            ],
+            [
+              105.865095,
+              21.029005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "ten_ct": "Khu dịch vụ chăm sóc sức khỏe & Spa",
+        "loai": "Thương mại",
+        "so_tang": 3,
+        "ma_lo": "LD-25",
+        "dien_tich_m2": 5077.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              105.866145,
+              21.029075
+            ],
+            [
+              105.866775,
+              21.029075
+            ],
+            [
+              105.866775,
+              21.029775
+            ],
+            [
+              105.866145,
+              21.029775
+            ],
+            [
+              105.866145,
+              21.029075
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
